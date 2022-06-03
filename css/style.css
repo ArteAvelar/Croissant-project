@@ -1,5 +1,5 @@
 body {
-  max-width: 600px;
+  background-color: #c4c1e0;
 }
 h1 {
   text-align: center;
@@ -7,5 +7,8 @@ h1 {
 
 img {
   display: block;
-  max-width: 400px;
+}
+
+.webpage-bbc {
+  text-align: center;
 }
